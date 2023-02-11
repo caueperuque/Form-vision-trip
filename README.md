@@ -5,5 +5,5 @@
 </p>
 
 <h2>Oque é esse projeto :thinking:</h2>
-<p>Projeto simples de criação de um formulário</p>
+<p>Projeto simples (fictício) de criação de um formulári, onde você deve preencher os campos para concorrer uma viagem pela empresa VisionTrip</p>
 <p>Criado em 11/02/2023 :upside_down_face:</p>
